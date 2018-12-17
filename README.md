@@ -12,3 +12,13 @@ Modeling: Explores logistic regression, KNN, decision tree, random forest, and s
 As of 10 November 2018,
 
 I have done moderate level of analysis of the data and proceeded with modeling; however, it is still in need of organization
+
+
+--------------------------------
+As of 17 December 2018,
+
+YAY! I made a lot of strives with this project in that I managed to do modeling where I got the featured variables, confusion matrix for all models in one functions, and table with all the methods of evaluting all models. Additionally, I played with violin! Please enjoy! :)
+
+
+Future Work: I still want to play with Data Analysis more! So, I may make a notebook exploring one central question aside from the who churns and who doesnt.
+
