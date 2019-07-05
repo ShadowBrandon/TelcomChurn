@@ -2,7 +2,7 @@
 
 Purpose: My own person purpose of this project is continue to employ data anlaysis skills in Python while continue to practice using various classifications. For this data set, the main objective is to figure out if we can find the major feature variables that can help explain for the churn over for this company.
 
-Data Analysis: Explore the data by plotting categorical data and visualizing the distribution of a dataset through various visualization techniques while developing questions about the data. In addition, cleaning the dataset to getting prepared for the modeling phase
+Data Analysis: Explore the data by plotting categorical data and visualizing the distribution of a dataset through various visualization techniques while developing questions about the data. Aside from cleaning the dataset by removing non-essential data, feature engineering was done to getting prepared for the modeling phase.
 
 Modeling: Explores various classification tools like logistic regression, KNN, decision tree, random forest, and svm. Feature importance (and relative Feature Importance), ROC Curves, and a neat Confusion Matrix function.
 
